@@ -14,6 +14,8 @@ if (!defined('ABSPATH')) {
     exit;
 }
 
+//changed
+
 // define plugin controller
 class WeddingPress
 {
